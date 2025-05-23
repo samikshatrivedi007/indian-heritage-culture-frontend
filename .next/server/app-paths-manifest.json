@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/[blog_id]/page": "app/[blog_id]/page.js",
+  "/blogPage/[slug]/page": "app/blogPage/[slug]/page.js",
+  "/blogPage/addBlog/page": "app/blogPage/addBlog/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/galleryPage/page": "app/galleryPage/page.js",
+  "/blogPage/page": "app/blogPage/page.js",
+  "/shopPage/bag/page": "app/shopPage/bag/page.js",
+  "/page": "app/page.js",
+  "/shopPage/checkout/page": "app/shopPage/checkout/page.js",
+  "/shopPage/page": "app/shopPage/page.js"
+}

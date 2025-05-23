@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/[blog_id]/page": "/[blog_id]",
+  "/blogPage/[slug]/page": "/blogPage/[slug]",
+  "/blogPage/addBlog/page": "/blogPage/addBlog",
+  "/cart/page": "/cart",
+  "/galleryPage/page": "/galleryPage",
+  "/blogPage/page": "/blogPage",
+  "/shopPage/bag/page": "/shopPage/bag",
+  "/page": "/",
+  "/shopPage/checkout/page": "/shopPage/checkout",
+  "/shopPage/page": "/shopPage"
+}
