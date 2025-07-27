@@ -1,0 +1,1 @@
+A visually engaging web platform built with React + TypeScript that showcases the rich heritage and cultural diversity of India. Includes dynamic sections like heritage site galleries, blogs, travel bookings, and cultural product shopping – all designed to promote and preserve Indian traditions.
